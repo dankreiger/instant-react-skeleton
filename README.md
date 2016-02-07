@@ -19,7 +19,6 @@ $ chmod +x ./auto_setup.sh
 $ ./auto_setup.sh
 ```
 
-## Start and open React Template App
 
 #### Start Node server
   ```bash
