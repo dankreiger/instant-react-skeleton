@@ -1,5 +1,6 @@
 ## ReactJS Starter Application Template
-This skeleton is based off of [Mark Price's Udemy Tutorial](https://www.udemy.com/react-flux/learn)
+[![](https://assets.toptal.io/uploads/blog/category/logo/291/react.png)](https://facebook.github.io/react/)
+
 
 
 
@@ -34,4 +35,6 @@ $ ./auto_setup.sh
 
 
 
+<br>
 
+This shell script automates code based off of [Mark Price's Udemy Tutorial](https://www.udemy.com/react-flux/learn) for ReactJS.
